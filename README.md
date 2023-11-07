@@ -3,20 +3,20 @@
 Below is a complete list of all certificate I have earned on <a href="https://www.codecademy.com/">Code Academy</a>, totaling 16 so far. The same information and more can be obtained directly on my Code Academy <a href="https://www.codecademy.com/profiles/AccesscodeTalker">profile page</a>.
 </p> 
 <ul>
-  <li>Open Spot 1</li>
-  <li>Open Spot 2</li>
-  <li>Open Spot 3</li>
-  <li>Open Spot 4</li>
-  <li>Open Spot 5</li>
-  <li>Open Spot 6</li>
-  <li>Open Spot 7</li>
-  <li>Open Spot 8</li>
-  <li>Open Spot 9</li>
-  <li>Open Spot 10</li>
-  <li>Open Spot 11</li>
-  <li>Open Spot 12</li>
-  <li>Open Spot 13</li>
-  <li>Open Spot 14</li>
-  <li>Open Spot 15</li>
-  <li>Open Spot 16</li>
+  <li>Cybersecurity for Business</li>
+  <li>Intro to AI Strategy</li>
+  <li>Intro to OpenAI GPT API</li>
+  <li>Learn About CSRF Attacks</li>
+  <li>Learn Advanced Python 3 Functional Programming</li>
+  <li>Learn HTML</li>
+  <li>Learn Javascript</li>
+  <li>Learn Python 2</li>
+  <li>Learn Python 3</li>
+  <li>Learn SQL</li>
+  <li>Learn What to Learn</li>
+  <li>OWAP Top 10 Broken Access Control</li>
+  <li>OWASP Top 10 Identification and Authentification Failures</li>
+  <li>OWASP Top 10 Security Logging and Monitoring Failures</li>
+  <li>OWASP Top 10 Security Misconfiguration</li>
+  <li>OWASP Top 10 Software and Data Integrity Failures</li>
 </ul>
