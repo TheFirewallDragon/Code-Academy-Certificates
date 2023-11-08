@@ -68,49 +68,49 @@ Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificate
 I've successfully completed the "Learn JavaScript" course, which has provided me with a strong foundation in this versatile and powerful programming language. This beginner-friendly course covered various aspects of JavaScript, including data types, variables, conditional statements, functions, scope, arrays, loops, higher-order functions, iterators, and object syntax. With 12 projects and 11 lessons, I gained hands-on experience in using JavaScript to solve practical problems and create interactive web applications. This knowledge not only enhances my web development skills but is also invaluable in the realm of cybersecurity. Understanding JavaScript is crucial for securing web applications, as it enables me to identify vulnerabilities and implement security measures effectively. Overall, this course has enriched my web development proficiency and provided essential skills for addressing cybersecurity challenges.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/introduction-to-javascript <br>
-Page: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20JavaScript.pdf
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20JavaScript.pdf
 
 <h2>Learn Python 2</h2>
 
 Link:
-Page:
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Python%202.pdf
 
 <h2>Learn Python 3</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>Learn SQL</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>Learn What to Learn</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>OWASP Top 10 Broken Access Control</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>OWASP Top 10 Identification and Authentification Failures</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>OWASP Top 10 Security Logging and Monitoring Failures</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>OWASP Top 10 Security Misconfiguration</h2>
 
 Link:
-Page:
+Certificate (PDF):
 
 <h2>OWASP Top 10 Software and Data Integrity Failures</h2>
 
 Link:
-Page:
+Certificate (PDF):
