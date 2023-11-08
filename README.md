@@ -22,14 +22,17 @@ Below is a complete list of all certificate I have earned on <a href="https://ww
 </ul>
 
 <h2>Cybersecurity for Business</h2>
-
-Link:
-Page:
-
+<p>
+I completed the "Cybersecurity for Business" course, and I found it extremely valuable for enhancing my knowledge of cybersecurity in a business context. This course equips professionals with the essential skills to protect their organizations from cyber threats. It covers topics such as securing employee accounts and devices, building a strong security culture, and understanding risk management. Additionally, the course provides insights into creating an incident response playbook, backed by real-world case studies. 
+</p>
+<p>
+Link: https://www.codecademy.com/enrolled/courses/cybersecurity-for-business <br>
+PDF: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Cybersecurity%20for%20Business.pdf
+</p>
 <h2>Intro to AI Strategy</h2>
 
-Link:
-Page:
+Link: https://www.codecademy.com/enrolled/courses/intro-to-ai-strategy <br>
+PDF: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20AI%20Strategy.pdf
 
 <h2>Intro to OpenAI GPT API</h2>
 
