@@ -1,6 +1,6 @@
 <h1>Code-Academy-Certificates</h1>
 <p>
-Below is a complete list of all certificate I have earned on <a href="https://www.codecademy.com/">Code Academy</a>, totaling 16 so far. The same information and more can be obtained directly on my Code Academy <a href="https://www.codecademy.com/profiles/AccesscodeTalker">profile page</a>.
+Below is a complete list of all certificate I have earned on <a href="https://www.codecademy.com/">Code Academy</a>, totaling 16 so far. The same information and more can be obtained directly on my Code Academy <a href="https://www.codecademy.com/profiles/AccesscodeTalker">profile page</a>. I also wrote a consice resumes explaining the value I gained from each course. 
 </p> 
 <ul>
   <li>Cybersecurity for Business</li>
