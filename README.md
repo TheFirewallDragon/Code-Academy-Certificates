@@ -26,21 +26,21 @@ Below is a complete list of all certificate I have earned on <a href="https://ww
 I completed the "Cybersecurity for Business" course, and I found it extremely valuable for enhancing my knowledge of cybersecurity in a business context. This course equips professionals with the essential skills to protect their organizations from cyber threats. It covers topics such as securing employee accounts and devices, building a strong security culture, and understanding risk management. Additionally, the course provides insights into creating an incident response playbook, backed by real-world case studies. 
 </p>
 Link: https://www.codecademy.com/enrolled/courses/cybersecurity-for-business <br>
-PDF: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Cybersecurity%20for%20Business.pdf
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Cybersecurity%20for%20Business.pdf
 
 <h2>Intro to AI Strategy</h2>
 <p>
 I completed the "Intro to AI Strategy" course, which is designed for beginners and covers the fundamentals of responsible AI use. This course helped me gain insights into the common risks and drawbacks associated with AI technology. The course was informative and included a lesson on "Generative AI Pitfalls" and a quiz to test my understanding.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/intro-to-ai-strategy <br>
-PDF: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20AI%20Strategy.pdf
+Certificates (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20AI%20Strategy.pdf
 
 <h2>Intro to OpenAI GPT API</h2>
 <p>
 I successfully completed the "Intro to OpenAI GPT API" course, designed for beginners. This course introduced me to OpenAI's GPT API and taught me how to craft more effective prompts for generative AI. I gained a deep understanding of the OpenAI API structure, including its endpoints, parameters, and the request and response objects. The course included a lesson on "OpenAI API" and a quiz to assess my knowledge. It was an insightful experience that expanded my knowledge of utilizing the OpenAI GPT API effectively.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/intro-to-open-ai-gpt-api <br>
-PDF: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20OpenAI%20GPT%20API.pdf
+Certificates (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20OpenAI%20GPT%20API.pdf
 
 <h2>Learn About CSRF Attacks</h2>
 
