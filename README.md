@@ -93,32 +93,42 @@ Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificate
 
 <h2>Learn What to Learn</h2>
 <p>
-After completing the "Learn What to Learn" course, I've gained essential skills for making informed decisions about my learning journey, whether it's in coding, computer science, or any other skill. This course provided me with a high-level context, guiding me through various programming paths, internet fundamentals, and even data science. The insights I've gathered go beyond coding and can be applied to any field or skill I wish to pursue. Learning how to pick the right path and continuously adapt to new knowledge is a valuable asset, making this course a valuable resource for lifelong learning across different domains.
+After completing the "Learn What to Learn" course, I've gained essential skills for making informed decisions about my learning journey. This course provided me with a high-level context, guiding me through various programming paths, internet fundamentals, and even data science. The insights I've gathered go beyond coding and can be applied to any field or skill I wish to pursue. Learning how to pick the right path and continuously adapt to new knowledge is a valuable asset, making this course a valuable resource for lifelong learning across different domains.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/learn-what-to-learn <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20What%20to%20Learn%20.pdf
 
 <h2>OWASP Top 10 Broken Access Control</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+Completing the "OWASP Top 10: Broken Access Control" course has equipped me with essential knowledge about identifying and preventing access control vulnerabilities. This understanding is crucial for enhancing cybersecurity and ensuring the confidentiality, integrity and availibility of digital systems and applications.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/2021-owasp-top-10-broken-access-control <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/OWASP%20Top%2010%20Broken%20Access%20Control.pdf
 
 <h2>OWASP Top 10 Identification and Authentification Failures</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+In the "OWASP Top 10: Identification and Authentication Failures" course, I gained insights into recognizing and addressing identification and authentication issues. This knowledge extends beyond data integrity and confidentiality, also playing a crucial role in ensuring system availability.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/2021-owasp-top-10-identification-and-authentication-failures <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/OWASP%20Top%2010%20Identification%20and%20Authentification%20Failures.pdf
 
 <h2>OWASP Top 10 Security Logging and Monitoring Failures</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+In the "OWASP Top 10: Security Logging and Monitoring Failures" course, I explored the world of security logging and monitoring failures. This understanding is critical not just for maintaining data integrity but also for upholding confidentiality and ensuring system availability. By identifying and addressing these issues, I've gained insights that can be applied across various domains, enhancing overall cybersecurity and risk mitigation efforts.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/2021-owasp-top-10-security-logging-and-monitoring-failures <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/OWASP%20Top%2010%20Security%20Logging%20and%20Monitoring%20Failures.pdf
 
 <h2>OWASP Top 10 Security Misconfiguration</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+The "OWASP Top 10: Security Misconfiguration" course was a valuable addition to my cybersecurity knowledge. I learned about security misconfigurations, their impact on system security, and effective prevention measures. This knowledge enhances my ability to protect systems and data, making it an asset for various aspects of cybersecurity.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/owasp-top-10-security-misconfiguration <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/OWASP%20Top%2010%20Security%20Misconfiguration.pdf
 
 <h2>OWASP Top 10 Software and Data Integrity Failures</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+The "OWASP Top 10: Software and Data Integrity Failures" course provided valuable insights into the realm of software and data integrity failures, their impact on system security, and effective prevention measures. This knowledge is essential for maintaining the integrity of software and data, a critical aspect of cybersecurity.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/2021-owasp-top-10-software-and-data-integrity-failures <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/OWASP%20Top%2010%20Software%20and%20Data%20Integrity%20Failures.pdf
