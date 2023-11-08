@@ -71,46 +71,50 @@ Link: https://www.codecademy.com/enrolled/courses/introduction-to-javascript <br
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20JavaScript.pdf
 
 <h2>Learn Python 2</h2>
-
-Link:
+<p>
+Completing the "Learn Python 2" course was a valuable experience. While Python 2 may be outdated, the course provided a strong foundation in programming, which extends to Python 3 and other languages. This knowledge is especially relevant in the field of cybersecurity, where working with legacy systems and codebases is common. Despite its legacy status, the course enhanced my programming skills and offered insights that remain valuable today.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-python <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Python%202.pdf
 
 <h2>Learn Python 3</h2>
-
-Link:
-Certificate (PDF):
+<p>
+Completing the Learn Python 3 course was an enriching experience that deepened my understanding of this versatile and in-demand programming language. I delved into Python syntax, mastered control flow with if, else, and elif statements, and became proficient in working with lists, loops, and functions. The course provided insights into string manipulation, modules, dictionaries, and file handling in Python, enhancing my data manipulation capabilities. Learning about classes and objects in Python opened the door to object-oriented programming concepts. This extensive knowledge has proven invaluable, not only for enhancing my programming skills but also for its direct applicability in the field of cybersecurity, where Python is a powerful tool for automating tasks, analyzing data, and strengthening security protocols. The course's diverse modules have equipped me with a comprehensive skill set, making it a valuable asset in various domains beyond just coding.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-python-3 <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Python%203.pdf
 
 <h2>Learn SQL</h2>
 
-Link:
-Certificate (PDF):
+Link: https://www.codecademy.com/enrolled/courses/learn-sql <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20SQL.pdf
 
 <h2>Learn What to Learn</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
 
 <h2>OWASP Top 10 Broken Access Control</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
 
 <h2>OWASP Top 10 Identification and Authentification Failures</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
 
 <h2>OWASP Top 10 Security Logging and Monitoring Failures</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
 
 <h2>OWASP Top 10 Security Misconfiguration</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
 
 <h2>OWASP Top 10 Software and Data Integrity Failures</h2>
 
-Link:
+Link: <br>
 Certificate (PDF):
