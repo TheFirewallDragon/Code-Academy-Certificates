@@ -33,24 +33,28 @@ Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificate
 I completed the "Intro to AI Strategy" course, which is designed for beginners and covers the fundamentals of responsible AI use. This course helped me gain insights into the common risks and drawbacks associated with AI technology. The course was informative and included a lesson on "Generative AI Pitfalls" and a quiz to test my understanding.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/intro-to-ai-strategy <br>
-Certificates (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20AI%20Strategy.pdf
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20AI%20Strategy.pdf
 
 <h2>Intro to OpenAI GPT API</h2>
 <p>
 I successfully completed the "Intro to OpenAI GPT API" course, designed for beginners. This course introduced me to OpenAI's GPT API and taught me how to craft more effective prompts for generative AI. I gained a deep understanding of the OpenAI API structure, including its endpoints, parameters, and the request and response objects. The course included a lesson on "OpenAI API" and a quiz to assess my knowledge. It was an insightful experience that expanded my knowledge of utilizing the OpenAI GPT API effectively.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/intro-to-open-ai-gpt-api <br>
-Certificates (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20OpenAI%20GPT%20API.pdf
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Intro%20to%20OpenAI%20GPT%20API.pdf
 
 <h2>Learn About CSRF Attacks</h2>
-
-Link:
-Page:
+<p>
+I have completed the "Learn About CSRF Attacks" course, which provides valuable insights into identifying and preventing Cross-Site Request Forgery (CSRF) attacks. This knowledge is highly valuable for strengthening cybersecurity measures and protecting systems and websites from this common vulnerability. By completing the course, I've gained a clear understanding of CSRF attacks and how to prevent them, which is essential for enhancing the security of web applications and ensuring the integrity of user data.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-about-csrf-attacks <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20About%20CSRF%20Attacks.pdf
 
 <h2>Learn Advanced Python 3 Functional Programming</h2>
-
-Link:
-Page:
+<p>
+Completing the "Learn Advanced Python 3: Functional Programming" course has been a valuable experience. It equipped me with the knowledge and skills to create more efficient and elegant Python programs using functional programming principles. The course content, including articles, lessons, and a hands-on project, provided a well-rounded understanding of functional programming. This newfound expertise has significantly improved my Python programming skills, enabling me to write cleaner and more maintainable code.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-advanced-python-3-functional-programming <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Advanced%20Python%203%20Functional%20Programming.pdf
 
 <h2>Learn HTML</h2>
 
