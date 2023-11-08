@@ -79,20 +79,24 @@ Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificate
 
 <h2>Learn Python 3</h2>
 <p>
-Completing the Learn Python 3 course was an enriching experience that deepened my understanding of this versatile and in-demand programming language. I delved into Python syntax, mastered control flow with if, else, and elif statements, and became proficient in working with lists, loops, and functions. The course provided insights into string manipulation, modules, dictionaries, and file handling in Python, enhancing my data manipulation capabilities. Learning about classes and objects in Python opened the door to object-oriented programming concepts. This extensive knowledge has proven invaluable, not only for enhancing my programming skills but also for its direct applicability in the field of cybersecurity, where Python is a powerful tool for automating tasks, analyzing data, and strengthening security protocols. The course's diverse modules have equipped me with a comprehensive skill set, making it a valuable asset in various domains beyond just coding.
+Completing the "Learn Python 3" course was an enriching experience that deepened my understanding of this versatile and in-demand programming language. I delved into Python syntax, mastered control flow with if, else, and elif statements, and became proficient in working with lists, loops, and functions. The course provided insights into string manipulation, modules, dictionaries, and file handling in Python, enhancing my data manipulation capabilities. Learning about classes and objects in Python opened the door to object-oriented programming concepts. This extensive knowledge has proven invaluable, not only for enhancing my programming skills but also for its direct applicability in the field of cybersecurity, where Python is a powerful tool for automating tasks, analyzing data, and strengthening security protocols. The course's diverse modules have equipped me with a comprehensive skill set, making it a valuable asset in various domains beyond just coding.
 </p>
 Link: https://www.codecademy.com/enrolled/courses/learn-python-3 <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Python%203.pdf
 
 <h2>Learn SQL</h2>
-
+<p>
+Completing the "Learn SQL" course was an enlightening journey into the world of data management and analysis, with applications extending well into the realm of cybersecurity. SQL is the backbone of efficiently handling large datasets and leveraging data to derive meaningful insights. The course empowered me to access, create, and update data stored in databases, essential skills that hold great importance in both data management and cybersecurity. Moreover, understanding complex SQL queries and aggregate functions provides a solid foundation for querying and analyzing data—a key aspect in identifying potential security breaches and trends in cybersecurity. The course's coverage of multiple tables is analogous to working with various data sources and their relationships, mirroring the intricacies of securing interconnected systems. In a cybersecurity context, SQL plays a pivotal role, not only in managing and safeguarding databases but also in addressing critical aspects such as SQL injection attacks, which can compromise data integrity. This course has not only enhanced my data manipulation abilities but also opened doors to applying SQL expertise in addressing cybersecurity challenges.
+</p>
 Link: https://www.codecademy.com/enrolled/courses/learn-sql <br>
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20SQL.pdf
 
 <h2>Learn What to Learn</h2>
-
-Link: <br>
-Certificate (PDF):
+<p>
+After completing the "Learn What to Learn" course, I've gained essential skills for making informed decisions about my learning journey, whether it's in coding, computer science, or any other skill. This course provided me with a high-level context, guiding me through various programming paths, internet fundamentals, and even data science. The insights I've gathered go beyond coding and can be applied to any field or skill I wish to pursue. Learning how to pick the right path and continuously adapt to new knowledge is a valuable asset, making this course a valuable resource for lifelong learning across different domains.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-what-to-learn <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20What%20to%20Learn%20.pdf
 
 <h2>OWASP Top 10 Broken Access Control</h2>
 
