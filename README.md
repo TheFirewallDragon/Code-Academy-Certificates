@@ -57,14 +57,18 @@ Link: https://www.codecademy.com/enrolled/courses/learn-advanced-python-3-functi
 Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20Advanced%20Python%203%20Functional%20Programming.pdf
 
 <h2>Learn HTML</h2>
-
-Link:
-Page:
+<p>
+Completing the "Learn HTML" course has significantly improved my understanding of web development. It provided me with a solid foundation in HTML, enabling me to create and edit web pages effectively. This knowledge is not only crucial for web development but also highly beneficial in the field of cybersecurity. Understanding HTML is essential for assessing and securing web applications, as it helps in identifying potential vulnerabilities and implementing security measures to protect against common web-based threats. This course has enhanced my web literacy, making me more proficient in both web development and cybersecurity, ultimately contributing to a well-rounded skill set.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/learn-html <br>
+Certificate (PDF): https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20HTML.pdf 
 
 <h2>Learn Javascript</h2>
-
-Link:
-Page:
+<p>
+I've successfully completed the "Learn JavaScript" course, which has provided me with a strong foundation in this versatile and powerful programming language. This beginner-friendly course covered various aspects of JavaScript, including data types, variables, conditional statements, functions, scope, arrays, loops, higher-order functions, iterators, and object syntax. With 12 projects and 11 lessons, I gained hands-on experience in using JavaScript to solve practical problems and create interactive web applications. This knowledge not only enhances my web development skills but is also invaluable in the realm of cybersecurity. Understanding JavaScript is crucial for securing web applications, as it enables me to identify vulnerabilities and implement security measures effectively. Overall, this course has enriched my web development proficiency and provided essential skills for addressing cybersecurity challenges.
+</p>
+Link: https://www.codecademy.com/enrolled/courses/introduction-to-javascript <br>
+Page: https://github.com/TheFirewallDragon/Code-Academy-Certificates-PDF/blob/main/Learn%20JavaScript.pdf
 
 <h2>Learn Python 2</h2>
 
